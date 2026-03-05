@@ -2,7 +2,7 @@
 title: 2026-02-21 자체 훈련
 date: 2026-02-21
 # description: 
-image: 20260221.jpg
+# image: 20260221.jpg
 tags:
     - 
 categories:
